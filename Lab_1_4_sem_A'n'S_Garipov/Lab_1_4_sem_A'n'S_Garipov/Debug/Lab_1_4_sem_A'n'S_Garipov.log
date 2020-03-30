@@ -1,0 +1,4 @@
+﻿  map.cpp
+C:\Users\raifg\source\repos\RaifGaripov\-\Lab_1_4_sem_A'n'S_Garipov\Lab_1_4_sem_A'n'S_Garipov\map.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\raifg\source\repos\RaifGaripov\-\Lab_1_4_sem_A'n'S_Garipov\Lab_1_4_sem_A'n'S_Garipov\map.h(277): warning C4715: map<int,int>::FindNode: значение возвращается не при всех путях выполнения
+  Lab_1_4_sem_A'n'S_Garipov.vcxproj -> C:\Users\raifg\source\repos\RaifGaripov\-\Lab_1_4_sem_A'n'S_Garipov\Debug\Lab_1_4_sem_A'n'S_Garipov.exe
